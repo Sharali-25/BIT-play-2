@@ -1,0 +1,8 @@
+print("XOR with 0 keeps the number")
+print("5 ^ 0 = ", 5 ^ 0)
+print("7 ^ 0 = ", 7 ^ 0)
+print("XOR with itself gives 0.")
+print("7 ^ 7 = ", 7 ^ 7)
+print("3 ^ 3 = ", 3 ^ 3)
+m = int(input("Enter a number :"))
+print("12 ^ ", m, " ^ 12", 12^m^12)
